@@ -6,7 +6,7 @@ This code provides functionality for an Optimization Service using the Knapsack 
 
 ### Motivation
 
-[Maersk](https://www.maersk.com/) is the largest container shipping company in the world. Each container has a maximal weight it may hold. Customers need to plan which of their products they can pack into a single shipping container in a manner of utmost Efficiency.
+Preamble: We are the largest container shipping company in the world. Each container has a maximal weight it may hold. Customers need to plan which of their products they can pack into a single shipping container in a manner of utmost Efficiency.
 
 # Development Setup
 
@@ -31,7 +31,7 @@ The System Contains the Following File Structure
 
 ```jsx
 
-knapsack_maersk/
+knapsack/
 
 |-- src/
 
@@ -65,7 +65,7 @@ knapsack_maersk/
 
 ### Run The Code
 
-To Run the Code, checkout this repository, navigate to the project directory [knapsack_maersk], and simply execute
+To Run the Code, checkout this repository, navigate to the project directory [knapsack], and simply execute
 
   
 
